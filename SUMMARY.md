@@ -2,7 +2,7 @@
 
 * [RedisBook\_ING](README.md)
 * [作者序]()
-  - [起因]()
+  - [起因](preface_of_author/reason.md)
   - [本书特点]()
   - [本书的读者对象]()
   - [致谢]()
