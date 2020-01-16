@@ -2,7 +2,7 @@
 
 * [RedisBook\_ING](README.md)
 * [作者序](zuo-zhe-xu/README.md)
-  * [起因](preface_of_author/reason.md)
+  * [起因](zuo-zhe-xu/reason.md)
   * [本书特点](zuo-zhe-xu/ben-shu-te-dian.md)
   * [本书的读者对象](zuo-zhe-xu/ben-shu-de-du-zhe-dui-xiang.md)
   * [致谢](zuo-zhe-xu/zhi-xie.md)
