@@ -10,7 +10,7 @@
   * [引言](preface/introduction.md)
   * [NoSQL概述](preface/overview_of_nosql/README.md)
     * [简介](preface/overview_of_nosql/brief_introduction.md)
-    * [特点](preface/overview_of_nosql/features_of_nosql.md)
+    * [特点](part_one/meet_redis/characteristics.md)
     * [与关系型数据库的对比](preface/overview_of_nosql/compare_with_rds.md)
 * [上篇](part_one/README.md)
   * [一、初识Redis](part_one/meet_redis/README.md)
