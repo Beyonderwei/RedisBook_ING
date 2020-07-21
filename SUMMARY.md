@@ -26,7 +26,7 @@
       * [2.2.2 数据库相关](part_one/chapter_02/base_command/database_cmd.md)
       * [2.2.3 常用数据指令](part_one/chapter_02/base_command/regular_cmd.md)
     * [2.3 数据类型](part_one/chapter_02/data_type/README.md)
-      * 2.3.1 字符串(String)
+      * [2.3.1 字符串(String)](part_one/chapter_02/data_type/String.md)
       * 2.3.2 列表(Lists)
       * 2.3.3 哈希(Hashes)
       * 2.3.4 集合(Sets)
